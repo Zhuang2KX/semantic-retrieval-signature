@@ -26,5 +26,5 @@ Information on the core brain regions (ROIs) within the semantic retrieval signa
 
 # Reference
 
-> Kaixiang, Z., Xinyu, L., Cheng, L., Ozan, V., Theodoros, K., Jonathan, S., Elizabeth, J. & Vatansever, D. (2025) Organizational principles of semantic retrieval in the human cortex.
+> Kaixiang, Z., Xinyu, L., Jonathan, S., Elizabeth, J. & Vatansever, D. (2025) Adaptive coordination between competing cognitive systems enables flexible retrieval of semantic knowledge.
 
